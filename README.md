@@ -1,0 +1,1 @@
+This repository demonstrates a common Perl error: accessing an array element using an index that is out of bounds.  The `bug.pl` file contains the erroneous code, while `bugSolution.pl` provides a corrected version. The error can lead to unexpected behavior or crashes.
